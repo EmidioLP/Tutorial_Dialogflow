@@ -44,18 +44,20 @@ Para se criar intenções personalizadas, basta clicar na opção "Create Intent
 ![](imagens/Screenshot_5.png) 
 ```
 Na criação de uma nova intenção um pequeno menu é acionado, aonde serão configuradas as características daquela intenção.
-Context: Caso necessário, é possível adicionar um contexto na qual aquela intenção será acionada, um contexto deve ter um nome e o número de interações de vida útil bem definidos pelo desenvolvedor.
+Context: Caso necessário, é possível adicionar um contexto na qual aquela intenção será acionada.
+Um contexto deve ter um nome e o número de interações de vida útil bem definidos pelo desenvolvedor.
 Events: Uma ação programada pelo desenvolvedor que será acionada assim que aquela intenção for correspondida pelo Dialogflow.
-Training Phrases: É aqui onde a intenção será realmente desenvolvida, aqui serão adicionadas as frases de teste e como o agente deverá responder caso elas sejam correspondidas.
+Training Phrases: É aqui onde a intenção será realmente desenvolvida. 
+Serão adicionadas as frases de teste e como o agente deverá responder caso correspondidas.
 ```
 ![](imagens/Screenshot_6.png) 
 ```
-Para que API's e códigos externos ao Dialogflow sejam usados com sucesso, é necessária a ativação da opção 'Fulfillment' no fim da página.
+É necessária a ativação da opção 'Fulfillment' no fim da página para a utilização de códigos e API's externas.
 ```
 ![](imagens/Screenshot_7.png) 
 ```
-Além da ativação na própria intenção, também é necessário ativar a opção de Fulfillmente para todo o projeto. Para isso, basta acessar a 
-opção na aba a direita.
+Além da ativação na própria intenção, também é necessário ativar a opção de Fulfillmente para todo o projeto. 
+Para isso, basta acessar a opção na aba a direita.
 ```
 ![](imagens/Screenshot_12.png)
 ```
@@ -64,13 +66,14 @@ adicionadas nas opções a seguir. É válido salientar que o Dialogflow atende 
 ```
 ![](imagens/Screenshot_11.png)
 ```
-Outra opção importante para o desenvolvimento de um projeto são as entidades. As entidades são responsáveis por armazenar informações pertinentes durante uma conversa.
-São semelhantes a variáveis em linguagens de programação. Para acessar o perfil de entidades, basta clicar na opção na tabela ao lado esquerdo da tela. 
+Outra opção importante para o desenvolvimento de um projeto são as entidades. 
+As entidades são responsáveis por armazenar informações pertinentes durante uma conversa. 
+Para acessar o perfil de entidades, basta clicar na opção na tabela ao lado esquerdo da tela. 
 ```
 ![](imagens/Screenshot_8.png)
 ```
-A plataforma já implementa algumas variáveis de sistema, como armazenamento de nomes, cores, datas, entre outras. Caso seja necessário a criação
-de variáveis personalizadas, basta clicar na opção "Create Entity".
+A plataforma já implementa algumas variáveis de sistema, como armazenamento de nomes, cores, datas, entre outras. 
+Caso seja necessário a criação de variáveis personalizadas, basta clicar na opção "Create Entity".
 ```
 ![](imagens/Screenshot_9.png)
 ```
