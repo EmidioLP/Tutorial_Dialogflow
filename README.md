@@ -3,7 +3,7 @@ Antes de iniciar o tutorial, é necessário que se faça uma conta na plataforma
 
 ### Configurações importantes
 ```
-Para acessar as configurações avançadas do seu agente basta clicar no ícone de engrenagem como demonstra a imagem a seguir
+Antes de iniciar realmente a se utilizar a plataforma, algumas configurações básicas devem ser feitas. Para acessar as configurações avançadas do seu agente basta clicar no ícone de engrenagem como demonstra a imagem a seguir
 
 ```
 ![](imagens/Screenshot_1.png)  
